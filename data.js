@@ -705,5 +705,12 @@ const emojiItems = [
     emojiImgs: "👧👶👦🍳",
     genres: ["comedy", "drama"],
     year: 2000
+  },
+  {
+    title: "Planet of the apes",
+    author: "Franklin J. Schaffner",
+    emojiImgs: "🌏🐒🐒🐒🐒🐒🐒",
+    genres: ["action-and-adventure", "fantasy"],
+    year: 1968
   }
 ];
